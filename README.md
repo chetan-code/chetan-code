@@ -1,16 +1,14 @@
-### Hi there 👋
+# Chetan Sharma
 
-<!--
-**chetan-code/chetan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Game Developer || Unity, C# || Cocos Creator, Typescript
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-chetan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-sharma-b15596116/)](https://www.linkedin.com/in/chetan-sharma-b15596116/)
+[![Itch.io](https://img.shields.io/badge/itch-chetan--sharma-red)](https://chetan-sharma.itch.io/)
+[![Artstation_Badge](https://img.shields.io/badge/Artstation-chetan--sharma-blue)](https://www.artstation.com/chetan_sharma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi there 👋
+
+I’m a Game developer from New Delhi, India 🇮🇳
+
+Currently working as a full time game developer for Myyhashstash.
