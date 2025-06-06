@@ -1,6 +1,6 @@
 # Chetan Sharma
 
-## Game Developer || Unity, C# || Cocos Creator, Typescript
+## Game Developer || Unity, C# || C++ || Cocos Creator, Typescript
 
 [![Linkedin Badge](https://img.shields.io/badge/-chetan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetan-sharma-b15596116/)](https://www.linkedin.com/in/chetan-sharma-b15596116/)
 [![Itch.io](https://img.shields.io/badge/itch-chetan--sharma-red)](https://chetan-sharma.itch.io/)
