@@ -10,5 +10,3 @@
 Hi there 👋
 
 I’m a Game developer from New Delhi, India 🇮🇳
-
-Currently working as a full time game developer for Myyhashstash.
